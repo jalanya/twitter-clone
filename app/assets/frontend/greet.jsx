@@ -1,5 +1,5 @@
 export default class Greet extends React.Component {
   render() {
-    return <h2>Hello World</h2>;
+    return <h2>Hello Jose</h2>;
   }
 }
