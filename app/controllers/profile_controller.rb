@@ -3,5 +3,6 @@ class ProfileController < ApplicationController
   def index
   end
   def update
+   redirect_to profile_path
   end
 end
